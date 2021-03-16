@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :boy: Interested in building stuff
+- 👯 I’m looking to collaborate on backend 
+
+![palvaibhav' github stats](https://github-readme-stats.vercel.app/api?username=palvaibhav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
+![palvaibhav' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=palvaibhav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
+
 <!--
 **palvaibhav/palvaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://komarev.com/ghpvc/?username=palvaibhav&color=green)](https://github.com/palvaibhav)
